@@ -1,5 +1,6 @@
 package abstractfactory;
 
+import decorator.QuackCounter;
 import ducks.DuckCall;
 import ducks.MallardDuck;
 import ducks.RedHeadDuck;
