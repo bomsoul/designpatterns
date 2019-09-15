@@ -1,3 +1,5 @@
+package adapter;
+
 import quack.Quackable;
 
 public class PigeonAdapter implements Quackable {

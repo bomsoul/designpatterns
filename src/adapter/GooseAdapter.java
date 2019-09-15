@@ -1,3 +1,5 @@
+package adapter;
+
 import quack.Quackable;
 
 public class GooseAdapter implements Quackable {

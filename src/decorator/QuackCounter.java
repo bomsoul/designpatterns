@@ -1,3 +1,5 @@
+package decorator;
+
 import quack.Quackable;
 
 public class QuackCounter implements Quackable {
