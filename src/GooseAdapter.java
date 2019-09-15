@@ -1,5 +1,7 @@
+import quack.Quackable;
+
 public class GooseAdapter implements Quackable {
-    Goose goose;
+   private Goose goose;
 
     public GooseAdapter(Goose goose) {
         this.goose = goose;

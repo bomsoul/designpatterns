@@ -1,3 +1,7 @@
+package ducks;
+
+import quack.Quackable;
+
 public class RubberDuck implements Quackable {
     @Override
     public void quack() {
